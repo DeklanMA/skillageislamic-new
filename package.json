@@ -16,6 +16,10 @@
     },
     "dependencies": {
         "@alpinejs/persist": "^3.12.0",
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "@tailwindcss/forms": "^0.5.7",
+        "@tailwindcss/line-clamp": "^0.4.4",
+        "@tailwindcss/typography": "^0.5.13",
         "alpinejs": "^3.10.3",
         "apexcharts": "^3.36.3"
     }
